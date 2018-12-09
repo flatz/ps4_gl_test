@@ -1,0 +1,10 @@
+build/*
+obj/*
+
+*.prx
+*.a
+*.lib
+
+*.o
+*.obj
+
