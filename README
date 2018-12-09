@@ -1,0 +1,5 @@
+OpenGL ES test
+
+Prerequisites:
+	SDK (oouch! need to move to open source SDK in the future...)
+	Linux & Wine (it could be backported to Windows and to other existing custom SDKs)
